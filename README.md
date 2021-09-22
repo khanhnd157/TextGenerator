@@ -1,0 +1,2 @@
+# TextGenerator
+Text helper generate
