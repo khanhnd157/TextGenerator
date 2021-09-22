@@ -3,6 +3,8 @@ Text helper generate
 
 Install from NUGET https://www.nuget.org/packages/CodeMaze.TextGenerator
 
+    Install-Package CodeMaze.TextGenerator
+
 Include package into your project 
                 
     using CodeMaze.TextGenerator;
