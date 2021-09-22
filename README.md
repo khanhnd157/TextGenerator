@@ -26,6 +26,7 @@ Builder text with options:
     }
     
 Builder more text type:
+    
     TextGenerator.KeygenBuilder(keygen_type) -- text length follow type input
     
     KeygenType
