@@ -1,5 +1,5 @@
 # TextGenerator
-Text helper generate
+.NET Text Generator Helper
 
 Install from NUGET https://www.nuget.org/packages/CodeMazeNET.TextGenerator
 
