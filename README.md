@@ -1,19 +1,19 @@
 # TextGenerator
 Text helper generate
 
-Install from NUGET https://www.nuget.org/packages/CodeMaze.TextGenerator
+Install from NUGET https://www.nuget.org/packages/CodeMazeNET.TextGenerator
 
-    Install-Package CodeMaze.TextGenerator
+    Install-Package CodeMazeNET.TextGenerator
 
 Include package into your project 
                 
-    using CodeMaze.TextGenerator;
+    using CodeMazeNET.TextGenerator;
           
-Builder random text
+## Builder random text
     
     TextGenerator.Builder(size) -- [size] type integer
     
-Builder text with options:
+## Builder text with options:
     
     TextGenerator.TextBuilder(size, text_type)  -- [size] type integer, text_type type enum with many options
         
@@ -25,7 +25,7 @@ Builder text with options:
         Numbers
     }
     
-Builder more text type:
+## Builder more text type:
     
     TextGenerator.KeygenBuilder(keygen_type) -- text length follow type input
     
@@ -42,3 +42,6 @@ Builder more text type:
         WEP_152bit,
         WEP_256bit,
     }
+
+# Thanks
+### Thanks for use, if it's helpful for you please send to me 1 star!
